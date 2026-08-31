@@ -9,7 +9,7 @@ Ce matin, nous nous sommes réveillés **à midi** 🕛😅.
 Le **jet lag** a frappé fort : impossible d’ouvrir les yeux à 9h malgré le réveil ⏰💤.  
 Donc voilà, midi, on émerge enfin, on sort de l’hôtel 🚶‍♂️🚶‍♀️🌞.
 
-![Petit chat](img/20260831_150415.jpg) Le petit chat est aussi fatigué que nous 😴 
+![Petit chat](/assets/images/20260831_150415.jpg) Le petit chat est aussi fatigué que nous 😴 
 
 On scanne deux **vélos en location** 🚴‍♂️🚴‍♀️.  
 Petit moment de galère : impossible de les débloquer avec **WeChat** 📱🙃, mais **Alipay** a fonctionné du premier coup ⚡💳.  
@@ -17,7 +17,7 @@ Résultat :
 - un vélo **Alipay** pour moi 🚴‍♂️🔵  
 - un vélo **WeChat** jaune pour ma compagne 🚴‍♀️💛
 
-![En vélo](img/20260831_135506.jpg)
+![En vélo](assets/images/20260831_135506.jpg)
 
 On part ensuite dans les rues de Chengdu, direction le **Musée du Mystère de la Vie** 🏛️🧬🐼.  
 En vélo, c’est **super safe** :  
