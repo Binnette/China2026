@@ -1,4 +1,13 @@
-China 2026 Travel Log 🇨🇳
+---
+layout: default
+title: China 2026 Travel Log 🇨🇳
+---
 
-- [08-29 : Top départ 🛫🔥](08-29.md)
-- [08‑30 : Les deux pieds dans la Chine 🇨🇳👣](08-30.md)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
