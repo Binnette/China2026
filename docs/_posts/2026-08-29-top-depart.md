@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  "29/08 : Top départ 🛫🔥"
+title: "Top départ 🛫🔥"
 ---
-
-# 29/08 : Top départ 🛫🔥
 
 Depuis quelques jours, nous faisons les préparatifs de notre voyage ✈️🌏.  
 Installation de **WeChat**, **Alipay**, et tout le bazar nécessaire pour survivre en Chine 🇨🇳😅.

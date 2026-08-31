@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  "08-30 : Les deux pieds dans la Chine 🇨🇳👣"
+title: "Les deux pieds dans la Chine 🇨🇳👣"
 ---
-
-# **08‑30 : Les deux pieds dans la Chine 🇨🇳👣**
 
 Arrivés à **Beijing** 🏯🛬, le trajet n’est pas terminé : nous devons encore prendre un second vol pour **Chengdu** ✈️🐼.
 

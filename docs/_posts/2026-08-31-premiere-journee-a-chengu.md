@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "08-31 : Première journée à Chengdu 🏙️"
+title: "Première journée à Chengdu 🏙️"
 ---
 
 # **Réveil tardif, vélos et musée à Chengdu 🚴‍♂️🏛️😴**
