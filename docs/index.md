@@ -1,4 +1,4 @@
 ---
 layout: home
-title: China Travel Log 🇨🇳
---
+title: China Travel Log 🇨🇳 
+---
