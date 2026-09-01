@@ -11,7 +11,7 @@ On est arrivés assez tôt et on a pu voir pas mal de pandas, des classiques noi
 
 ![Panda](/China2026/assets/images/20260901_085410.jpg)
 
-...et aussipas mal de pandas roux 🦊.
+...et aussi pas mal de pandas roux 🦊.
 
 ![Pandas roux](/China2026/assets/images/20260901_084602.jpg)
 
