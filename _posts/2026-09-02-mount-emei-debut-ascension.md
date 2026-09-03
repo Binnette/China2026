@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mount Emei, première partie 🏞️🐒🏯
+title: Mount Emei, début de l'ascension 🏞️🐒🏯
 ---
 
 Ce matin, on s’est levés à 4h30 pour attraper un taxi direction la **gare Est de Chengdu** 🚕. On a pris un train et on est arrivés vers 8h à **Emeishan** 🚆⛰️.
