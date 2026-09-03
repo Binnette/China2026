@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mount Emei, ascension au Golden Peak
+title: Mount Emei, ascension au Golden Peak 🙌⛰️ 
 ---
 
 Après une bonne nuit au **Yuxian Temple**, on a repris le vhemin vers 8h. Très vite, on a croisé quelques singes 🐒.
